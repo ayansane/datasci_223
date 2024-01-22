@@ -10,5 +10,5 @@ My name is Alfa Yansane. I am a public health researcher. Within this course, I 
 Alfa Yansane
 
 ### Links To Completed Exercises
-1. Exercise 1 - Foundations: [_Making the grade_](badmath.org/datasci)  
+1. Exercise 1 - Foundations: [_Making the grade_](https://github.com/ayansane/datasci_223/blob/560e971a5ea262e4760605baf6fde14df5f1ab0e/exercises/1-foundations/exercise.ipynb)  
 
