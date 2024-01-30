@@ -18,9 +18,21 @@ The code is in a Jupyter notebook format where each code block can be executed i
 from typing import List
 ```
 
+2. _Exercise 2 Note_ - The enmist, pandas, numpy, matplotlib, string, and hashlib libraries. Usage is as follows:
+```
+import string
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import emnist
+from hashlib import sha1
+```
+
 ### Difficulties
 1. _Exercise 1 Note_ - No difficulties to report.
+2. _Exercise 2 Note_ - The code written for creating nan's did not run for me and I could not figure out how to get it to work.
 
 ### Links To Completed Exercises
 1. Exercise 1 - Foundations: [_Making the grade_](https://github.com/ayansane/datasci_223/blob/560e971a5ea262e4760605baf6fde14df5f1ab0e/exercises/1-foundations/exercise.ipynb)  
+2. Exercise 2 - Data Munging: [_Cleaning, Munging, Wrangling_](https://github.com/ayansane/datasci_223/blob/5f2d0fe55ef227aeff235ca88a766ab6742fd758/exercises/2-data-munging/exercise-dirty_emnist.ipynb)
 
